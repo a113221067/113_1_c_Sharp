@@ -1,0 +1,7 @@
+C:\Users\shu\Desktop\113_1_c_Sharp\113-10-8\Textboxdemo\obj\Debug\net8.0-windows\Textboxdemo.Form1.resources
+C:\Users\shu\Desktop\113_1_c_Sharp\113-10-8\Textboxdemo\obj\Debug\net8.0-windows\Textboxdemo.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_1_c_Sharp\113-10-8\Textboxdemo\obj\Debug\net8.0-windows\Textboxdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shu\Desktop\113_1_c_Sharp\113-10-8\Textboxdemo\obj\Debug\net8.0-windows\Textboxdemo.AssemblyInfoInputs.cache
+C:\Users\shu\Desktop\113_1_c_Sharp\113-10-8\Textboxdemo\obj\Debug\net8.0-windows\Textboxdemo.AssemblyInfo.cs
+C:\Users\shu\Desktop\113_1_c_Sharp\113-10-8\Textboxdemo\obj\Debug\net8.0-windows\Textboxdemo.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_1_c_Sharp\113-10-8\Textboxdemo\obj\Debug\net8.0-windows\Textboxdemo.sourcelink.json
