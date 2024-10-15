@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Textboxdemo")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("tutorial-3-1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c8375b57e9de7e4450aada268bd5cd837f86fea")]
-[assembly: System.Reflection.AssemblyProductAttribute("Textboxdemo")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Textboxdemo")]
+[assembly: System.Reflection.AssemblyProductAttribute("tutorial-3-1")]
+[assembly: System.Reflection.AssemblyTitleAttribute("tutorial-3-1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
