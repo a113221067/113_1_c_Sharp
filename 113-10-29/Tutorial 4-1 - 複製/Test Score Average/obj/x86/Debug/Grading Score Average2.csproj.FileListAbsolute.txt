@@ -1,0 +1,7 @@
+C:\Users\shu\Desktop\113_1_c_Sharp\113-10-29\Tutorial 4-1 - 複製\Test Score Average\obj\x86\Debug\Grading Score Average2.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\113_1_c_Sharp\113-10-29\Tutorial 4-1 - 複製\Test Score Average\obj\x86\Debug\Test_Score_Average.Form1.resources
+C:\Users\shu\Desktop\113_1_c_Sharp\113-10-29\Tutorial 4-1 - 複製\Test Score Average\obj\x86\Debug\Test_Score_Average.Properties.Resources.resources
+C:\Users\shu\Desktop\113_1_c_Sharp\113-10-29\Tutorial 4-1 - 複製\Test Score Average\obj\x86\Debug\Grading Score Average2.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_1_c_Sharp\113-10-29\Tutorial 4-1 - 複製\Test Score Average\obj\x86\Debug\Grading Score Average2.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_1_c_Sharp\113-10-29\Tutorial 4-1 - 複製\Test Score Average\obj\x86\Debug\Test Score Average.exe
+C:\Users\shu\Desktop\113_1_c_Sharp\113-10-29\Tutorial 4-1 - 複製\Test Score Average\obj\x86\Debug\Test Score Average.pdb
