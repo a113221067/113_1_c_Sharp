@@ -17,19 +17,6 @@ namespace Test_Average
             InitializeComponent();
         }
 
-        private void calculateButton_Click(object sender, EventArgs e)
-        {
-            decimal Text1txetbox;
-            decimal Text2textbox;
-            decimal Text3textbox;
-            decimal averageLabel;
-
-            Text1txetbox = decimal.Parse(Text1txetbox.ToString());
-        }
-
-        private void exitButton_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
+        
     }
 }
