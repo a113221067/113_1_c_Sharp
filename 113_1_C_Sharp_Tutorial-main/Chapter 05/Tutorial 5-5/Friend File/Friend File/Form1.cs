@@ -21,6 +21,19 @@ namespace Friend_File
         private void writeNameButton_Click(object sender, EventArgs e)
         {
             // 這裡是寫入名字的按鈕點擊事件處理程式
+            try
+            {
+                StreamWriter outputFile;
+                outputFile = File.AppendText(@"data\Friend.txt");
+                outputFile.WriteLine(nameTextBox.Text);
+                outputFile.Close();
+                MessageBox.Show("名字已寫入檔案");
+                
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
 
         private void exitButton_Click(object sender, EventArgs e)
